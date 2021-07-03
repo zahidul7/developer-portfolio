@@ -7,7 +7,7 @@ h1{
 .orange-color{
     color:orange
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 10px;
 }
@@ -31,4 +31,18 @@ background-repeat: no-repeat;
     background-image:url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.zahid{
+    color: tomato;
+}
+.half-width{
+    box-shadow: 10px 10px yellowgreen;
+}
+.experience-item{
+    padding: left 20px solid; 
+    padding-right: 20px;
+border-color: rgb(219, 182, 18);
+} 
+footer p{
+   text-align: center;
 }
